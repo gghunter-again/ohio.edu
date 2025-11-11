@@ -1,0 +1,1 @@
+{"jsonapi":{"version":"1.0","meta":{"links":{"self":{"href":"http:\/\/jsonapi.org\/format\/1.0\/"}}}},"data":[],"links":{"self":{"href":"https:\/\/www.ohio.edu\/jsonapi\/node\/ohio_alert?filter%5Bfield_alert_active%5D%5Bvalue%5D=1"}}}
